@@ -1,0 +1,25 @@
+***Component চার ভাবে identify করা যায়।
+1. similar in look different in data.
+2. Container Component
+3. No pattern, but Breakdown for Working Purpose.
+4. Stand Alone Component.
+
+
+*** Single page application benefits
+1. Caching capabilities. ...
+2. Fast and responsive. ...
+3. Debugging with chrome. ...
+4. Fast development. ...
+5. Enhanced user experience. ...
+6. Conversion to IOS and Android applications. ...
+7. Cross-platform compatibility. ...
+8. Search engine optimization (SEO);
+
+*** Routing in React?
+
+***property গুলোকে Props বলে!!
+
+*** What are Component in React?
+
+*** What are Single page application?
+*** SPA VS MPA
